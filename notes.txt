@@ -1,0 +1,13 @@
+how challenging it is to find a computer to use
+
+where do you go when u are in school/home to use a computer
+
+How often do you use computer?
+
+Category
+	Freshie
+	Sophie
+	Junior
+	Senior
+	SHS
+	JHS
