@@ -1,4 +1,8 @@
-FIRST PROTOTYPE
+=========================FIRST PROTOTYPE=================
+
+
+
+==============INTERVIEWEE 1================
 
 Price... 
 Justrenz... 
@@ -29,8 +33,22 @@ Hindi kayo pwedeng mag coordinate dun sa yung sa lugar mismo.
 Kunyari pwedeng mag advanced booking ganun?
 
 
+==============INTERVIEWEE 2================
 
-SECOND PROTOTYPE
+
+Una sa lahat yung design napakaganda at tyaka yung application ninyo very user friendly, easy to use,
+and then talagang makakatulong yung mga ganitong application, lalong lalo na yung malalayong compshop,
+and then magkakaroon kana ng unting kaalaman kung magkano yung PC per hour dun.
+
+Ayun.
+
+
+
+
+==================================SECOND PROTOTYPE========================
+
+
+==============INTERVIEWEE 1================
 
 Napipindont ba ito hindi?
 
@@ -54,5 +72,16 @@ Dapat may something na magbibigay ka ng hint na may gagawin kayo diyan ganun,
 
 Yun lang, Okay naman siya actually.
 
+
+==============INTERVIEWEE 2================
+
+
+Wala kasing mga "back" na nakalagay kaya sa una, hindi mo alam pano i baback
+na sa gilid lang pala pipindutin para mag back
+
+yung iba naman naintindihan ko naman yung iba
+available kapag green kapag red occupied
+
+Ayun.
 
 
